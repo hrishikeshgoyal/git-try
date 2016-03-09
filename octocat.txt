@@ -1,4 +1,64 @@
 So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
+So we've made a few commits. Now let's browse them to see what we changed.
+
+Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now:
 
 Fortunately for us, there's git log. Think of Git's log as a journal that remembers all the changes we've committed so far, in the order we committed them. Try running it now
 So we've made a few commits. Now let's browse them to see what we changed.
